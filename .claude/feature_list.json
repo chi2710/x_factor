@@ -1,0 +1,70 @@
+{
+  "project": "Sample_2D — Menu UI 4 tab (Unity 6000.5)",
+  "updated": "2026-11-15",
+  "features": [
+    {
+      "id": "menu-core",
+      "name": "Khung menu: đổi tab bằng click hoặc LB/RB (Q/E), Start (Tab) bật/tắt, B (Esc) thoát, khóa điều khiển nhân vật khi mở",
+      "files": ["Scripts/UI/TabMenuUI.cs", "Scripts/UI/TabButtonUI.cs", "Scripts/UI/SlotUI.cs", "Scripts/UI/ITabContent.cs", "Scripts/Player.cs"],
+      "status": "done",
+      "verified": "Play mode — user xác nhận 2026-11-03"
+    },
+    {
+      "id": "menu-start-hidden-fix",
+      "name": "Sửa lỗi không chọn được ô khi Content bị tắt lúc vào scene",
+      "files": ["Scripts/UI/TabMenuUI.cs", "Scripts/UI/ItemTabUI.cs", "Scripts/UI/SkillTabUI.cs", "Scripts/UI/MapTabUI.cs", "Scripts/UI/EquipmentTabUI.cs"],
+      "status": "done",
+      "verified": "Play mode — user xác nhận 2026-11-03"
+    },
+    {
+      "id": "tab-items",
+      "name": "Tab Vật phẩm: nhiệm vụ và vật phẩm chọn độc lập, ô thông tin vật phẩm, mô tả nhiệm vụ",
+      "files": ["Scripts/UI/ItemTabUI.cs", "Scripts/UI/ItemUI.cs", "Scripts/UI/MissionUI.cs", "Scripts/UI/ItemDetailUI.cs"],
+      "status": "done"
+    },
+    {
+      "id": "tab-skills",
+      "name": "Tab Kĩ năng: tháo/lắp kĩ năng, chế độ chọn, B hủy chọn, chặn lắp trùng",
+      "files": ["Scripts/UI/SkillTabUI.cs", "Scripts/UI/SkillUI.cs", "Scripts/UI/SkillDetailUI.cs", "Scripts/Skill.cs"],
+      "status": "done"
+    },
+    {
+      "id": "tab-map",
+      "name": "Tab Bản đồ: layout và marker",
+      "files": ["Scripts/UI/MapTabUI.cs", "Scripts/UI/MapMarkerUI.cs", "Scripts/Editor/MapTabBuilder.cs"],
+      "status": "partial",
+      "remaining": ["3 marker \"!\" đỏ chưa có sprite", "Nút Y \"Dịch chuyển\" chưa có chức năng"]
+    },
+    {
+      "id": "tab-equipment",
+      "name": "Tab Trang bị: lắp/tháo thiết bị vào ô Đang trang bị",
+      "files": ["Scripts/UI/EquipmentTabUI.cs", "Scripts/UI/EquipmentSlotUI.cs", "Scripts/Editor/EquipmentTabBuilder.cs"],
+      "status": "partial",
+      "remaining": ["Nhóm THIẾT BỊ trong sheet đang trống", "Thiếu ảnh vũ khí", "Nút \"NÂNG CẤP: 20Đ\" chỉ là hình"]
+    },
+    {
+      "id": "data-import",
+      "name": "Import dữ liệu từ Google Sheet / CSV",
+      "files": ["Scripts/Editor/MenuUIDataImporter.cs", "Data/ItemData.csv"],
+      "status": "done"
+    },
+    {
+      "id": "button-hint-bar",
+      "name": "Thanh gợi ý nút (A/B/Điều hướng)",
+      "status": "todo"
+    },
+    {
+      "id": "enemy-ai-bt",
+      "name": "Enemy AI bằng Behavior Designer Pro: idle, patrol (±4), chase (trước mặt & < 3), attack (trước mặt & < 1)",
+      "files": ["Scripts/AI/Facing2D.cs", "Scripts/AI/IsTargetInFront2D.cs", "Scripts/AI/Patrol2D.cs", "Scripts/AI/Chase2D.cs", "Scripts/Editor/EnemyTreeBuilder.cs"],
+      "status": "in-progress",
+      "remaining": ["Chạy Tools > Enemy AI > Build Behavior Tree trên enemy và kiểm tra cây trong BD Editor (builder dùng API không có tài liệu)", "Kiểm tra Play mode", "Attack mới chỉ chạy animation, chưa gây sát thương"]
+    },
+    {
+      "id": "menu-toggle-when-ui-disabled",
+      "name": "Nút Menu hoạt động cả khi object UI bị tắt hẳn (tách phần nhận phím ra component trên object luôn bật)",
+      "status": "optional",
+      "note": "Chỉ làm nếu user yêu cầu"
+    }
+  ]
+}

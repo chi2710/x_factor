@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ec017cdbc316f48900f2d621a4eafa, type: 3}
+  m_Name: PinPheLieu
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  icon: {fileID: 21300000, guid: 2b4eaab0a22376f43a881e9b75318e53, type: 3}
+  iconSelected: {fileID: 21300000, guid: 76d48641caab6d2469099683ac9e0166, type: 3}
+  title: "PIN PH\u1EBE LI\u1EC6U"
+  location: "KH\xC1M PH\xC1 KHU PH\u1EBE TH\u1EA2I"
+  description: "Vi\xEAn pin \u0111\u01B0\u1EE3c thu h\u1ED3i t\u1EEB nh\u1EEFng thi\u1EBFt
+    b\u1ECB h\u1ECFng trong khu ph\u1EBF th\u1EA3i. L\u01B0\u1EE3ng \u0111i\u1EC7n
+    c\xF2n s\xF3t l\u1EA1i \u0111\u1EE7 \u0111\u1EC3 c\u1EA5p ngu\u1ED3n cho c\xE1c
+    thi\u1EBFt b\u1ECB nh\u1ECF v\xE0 k\xEDch ho\u1EA1t nh\u1EEFng m\u1EA1ch \u0111i\u1EC7n
+    \u0111\u01A1n gi\u1EA3n."

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e2384a12426c414c92efac3854477c7, type: 3}
+  m_Name: DanhBaiLienTiep15KeDich
+  m_EditorClassIdentifier: Assembly-CSharp::Mission
+  icon: {fileID: 21300000, guid: 9c0ead80c45a5dd41b6d8b33313644fe, type: 3}
+  iconSelected: {fileID: 21300000, guid: 38cf4a6ebda652f42a2e3f790f721e0b, type: 3}
+  title: "\u0110\xC1NH B\u1EA0I LI\xCAN TI\u1EBEP 15 K\u1EBA \u0110\u1ECACH"
+  location: "NHI\u1EC6M V\u1EE4"
+  description: "\u0110\xE1nh b\u1EA1i li\xEAn ti\u1EBFp 15 k\u1EBB \u0111\u1ECBch
+    m\xE0 kh\xF4ng b\u1ECB h\u1EA1 g\u1EE5c. T\u1EADn d\u1EE5ng \u0111\u1ECBa h\xECnh,
+    ph\u1ED1i h\u1EE3p v\u0169 kh\xED v\xE0 k\u1EF9 n\u0103ng \u0111\u1EC3 duy tr\xEC
+    th\u1EBF ch\u1EE7 \u0111\u1ED9ng tr\u01B0\u1EDBc c\xE1c \u0111\u1EE3t t\u1EA5n
+    c\xF4ng."
+  completed: 0

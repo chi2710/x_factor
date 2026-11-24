@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 08b5c972122b3e04b937652926be5d67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2404826197311081617
+    second: jump-fall-land_0
+  - first:
+      213: -2634599084984479097
+    second: jump-fall-land_1
+  - first:
+      213: -2909137928178397870
+    second: jump-fall-land_2
+  - first:
+      213: 2384737934293413348
+    second: jump-fall-land_3
+  - first:
+      213: 9183144661811339562
+    second: jump-fall-land_4
+  - first:
+      213: -8380864070167844039
+    second: jump-fall-land_5
+  - first:
+      213: -2285262192927046072
+    second: jump-fall-land_6
+  - first:
+      213: 3002520947366618763
+    second: jump-fall-land_7
+  - first:
+      213: -3420096830806094983
+    second: jump-fall-land_8
+  - first:
+      213: -7657875695703955913
+    second: jump-fall-land_9
+  - first:
+      213: -7681505665224787265
+    second: jump-fall-land_10
+  - first:
+      213: 7259200881706084590
+    second: jump-fall-land_11
+  - first:
+      213: 4057678216996581847
+    second: jump-fall-land_12
+  - first:
+      213: -4970266996650727388
+    second: jump-fall-land_13
+  - first:
+      213: 7497486571805907570
+    second: jump-fall-land_14
+  - first:
+      213: 8205171578741928691
+    second: jump-fall-land_15
+  - first:
+      213: -3106727046718232359
+    second: jump-fall-land_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump-fall-land_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3402
+        width: 365
+        height: 667
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6338ba905750aed0800000000000000
+      internalID: -2404826197311081617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_1
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3402
+        width: 477
+        height: 780
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7825ee54716007bd0800000000000000
+      internalID: -2634599084984479097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_2
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 3402
+        width: 474
+        height: 780
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d8f44b77aa0a7d0800000000000000
+      internalID: -2909137928178397870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_3
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 3402
+        width: 461
+        height: 780
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed25ff248a481120800000000000000
+      internalID: 2384737934293413348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2356
+        width: 405
+        height: 760
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212a406a65117f70800000000000000
+      internalID: 9183144661811339562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_5
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2356
+        width: 425
+        height: 760
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bafca288031bb80800000000000000
+      internalID: -8380864070167844039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_6
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 2335
+        width: 392
+        height: 772
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84604f3b42e1940e0800000000000000
+      internalID: -2285262192927046072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_7
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 2335
+        width: 396
+        height: 772
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e472c4e81ba920800000000000000
+      internalID: 3002520947366618763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1237
+        width: 474
+        height: 786
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b0d568d006980d0800000000000000
+      internalID: -3420096830806094983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_11
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1237
+        width: 441
+        height: 786
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee82b43bdbcddb460800000000000000
+      internalID: 7259200881706084590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_12
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 1237
+        width: 460
+        height: 786
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1fbe007d4cf4830800000000000000
+      internalID: 4057678216996581847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_13
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 1237
+        width: 446
+        height: 786
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42829c90080160bb0800000000000000
+      internalID: -4970266996650727388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 153
+        width: 472
+        height: 786
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a90cc405c6c0860800000000000000
+      internalID: 7497486571805907570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_15
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 150
+        width: 404
+        height: 642
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f23b08f310aed170800000000000000
+      internalID: 8205171578741928691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-fall-land_16
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 150
+        width: 451
+        height: 714
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e24e0630b2e4d0800000000000000
+      internalID: -3106727046718232359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e134b5127df6b4643b847c4034a5a024
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump-fall-land_0: -2404826197311081617
+      jump-fall-land_1: -2634599084984479097
+      jump-fall-land_10: -7681505665224787265
+      jump-fall-land_11: 7259200881706084590
+      jump-fall-land_12: 4057678216996581847
+      jump-fall-land_13: -4970266996650727388
+      jump-fall-land_14: 7497486571805907570
+      jump-fall-land_15: 8205171578741928691
+      jump-fall-land_16: -3106727046718232359
+      jump-fall-land_2: -2909137928178397870
+      jump-fall-land_3: 2384737934293413348
+      jump-fall-land_4: 9183144661811339562
+      jump-fall-land_5: -8380864070167844039
+      jump-fall-land_6: -2285262192927046072
+      jump-fall-land_7: 3002520947366618763
+      jump-fall-land_8: -3420096830806094983
+      jump-fall-land_9: -7657875695703955913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

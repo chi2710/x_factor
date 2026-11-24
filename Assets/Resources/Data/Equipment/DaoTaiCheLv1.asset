@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ec017cdbc316f48900f2d621a4eafa, type: 3}
+  m_Name: DaoTaiCheLv1
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  icon: {fileID: 21300000, guid: df1bbdb375cc19c4aaaf7954cb470524, type: 3}
+  iconSelected: {fileID: 21300000, guid: df1bbdb375cc19c4aaaf7954cb470524, type: 3}
+  title: "\u0110AO T\u00C1I CH\u1EBE / LV1"
+  location: "V\u0168 KH\u00CD"
+  description: "L\u01B0\u1EE1i \u0111ao b\u1EB1ng th\u00E9p v\u1EDBi t\u1EA7m ch\u00E9m r\u1ED9ng, d\u00F9ng \u0111\u1EC3 t\u1EA5n c\u00F4ng k\u1EBB \u0111\u1ECBch \u1EDF c\u1EF1 ly g\u1EA7n. C\u00E1c nh\u00E1t ch\u00E9m g\u00E2y s\u00E1t th\u01B0\u01A1ng v\u1EADt l\u00FD, ph\u00F9 h\u1EE3p \u0111\u1ED1i \u0111\u1EA7u tr\u1EF1c di\u1EC7n.\nLo\u1EA1i v\u0169 kh\u00ED: C\u1EADn chi\u1EBFn\nT\u1ED1c \u0111\u1ED9 \u0111\u00E1nh: Ch\u1EADm\nT\u1EA7m \u0111\u00E1nh: G\u1EA7n\nS\u00E1t th\u01B0\u01A1ng: 25 s\u00E1t th\u01B0\u01A1ng/\u0111\u00F2n"

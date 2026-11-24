@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: d40291065a0c04245aaa5ec5f5afc0a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1561561766802545631
+    second: spider-update_0
+  - first:
+      213: -7856068312795539435
+    second: spider-update_1
+  - first:
+      213: -5026530231667102307
+    second: spider-update_2
+  - first:
+      213: 2016004638234149932
+    second: spider-update_3
+  - first:
+      213: 5395407370567993943
+    second: spider-update_4
+  - first:
+      213: -4918963397377171671
+    second: spider-update_5
+  - first:
+      213: 5748757840783442816
+    second: spider-update_6
+  - first:
+      213: 6025850824655538793
+    second: spider-update_7
+  - first:
+      213: -7012633811023645819
+    second: spider-update_8
+  - first:
+      213: 3852120098350471385
+    second: spider-update_9
+  - first:
+      213: -3816899641390265766
+    second: spider-update_10
+  - first:
+      213: 9111932004997040233
+    second: spider-update_11
+  - first:
+      213: 1525285353198446802
+    second: spider-update_12
+  - first:
+      213: 5996589733164628796
+    second: spider-update_13
+  - first:
+      213: 3695924895856608138
+    second: spider-update_14
+  - first:
+      213: 7168739391658868838
+    second: spider-update_15
+  - first:
+      213: -2454250461148730857
+    second: spider-update_16
+  - first:
+      213: -7857003165947967800
+    second: spider-update_17
+  - first:
+      213: 4994379508280644965
+    second: spider-update_18
+  - first:
+      213: 6621040689448027636
+    second: spider-update_19
+  - first:
+      213: -3404065233193884740
+    second: spider-update_20
+  - first:
+      213: -5941417711251387407
+    second: spider-update_21
+  - first:
+      213: -556833346643495987
+    second: spider-update_22
+  - first:
+      213: -4561718922348073984
+    second: spider-update_23
+  - first:
+      213: 37112185253736319
+    second: spider-update_24
+  - first:
+      213: -1540533955019737897
+    second: spider-update_25
+  - first:
+      213: -4706891711773462771
+    second: spider-update_26
+  - first:
+      213: 5968276504369955293
+    second: spider-update_27
+  - first:
+      213: 1247056195529200607
+    second: spider-update_28
+  - first:
+      213: 1454700031845931079
+    second: spider-update_29
+  - first:
+      213: 699298402343698782
+    second: spider-update_30
+  - first:
+      213: 4103858867329091171
+    second: spider-update_31
+  - first:
+      213: -20993363337163113
+    second: spider-update_32
+  - first:
+      213: 7622552496420439740
+    second: spider-update_33
+  - first:
+      213: -4862375501924032606
+    second: spider-update_34
+  - first:
+      213: 6857670165581453175
+    second: spider-update_35
+  - first:
+      213: -8883481652954791944
+    second: spider-update_36
+  - first:
+      213: -5265884277944938942
+    second: spider-update_37
+  - first:
+      213: -1449431612762829737
+    second: spider-update_38
+  - first:
+      213: 3107899379087134016
+    second: spider-update_39
+  - first:
+      213: 2987385351351843021
+    second: spider-update_40
+  - first:
+      213: -6836631278826792261
+    second: spider-update_41
+  - first:
+      213: 93429940328704897
+    second: spider-update_42
+  - first:
+      213: -105733771069571035
+    second: spider-update_43
+  - first:
+      213: -2848474230010755218
+    second: spider-update_44
+  - first:
+      213: -6145135967241850379
+    second: spider-update_45
+  - first:
+      213: 4561511741443903830
+    second: spider-update_46
+  - first:
+      213: -2706936430925321606
+    second: spider-update_47
+  - first:
+      213: -9180150277508156177
+    second: spider-update_48
+  - first:
+      213: 2332780184435289988
+    second: spider-update_49
+  - first:
+      213: 2331787877489976761
+    second: spider-update_50
+  - first:
+      213: -5827846918526473890
+    second: spider-update_51
+  - first:
+      213: -2148876557228302388
+    second: spider-update_52
+  - first:
+      213: -8360188135727988778
+    second: spider-update_53
+  - first:
+      213: -5213471771947790012
+    second: spider-update_54
+  - first:
+      213: 7609281464053909023
+    second: spider-update_55
+  - first:
+      213: -5392752679079744473
+    second: spider-update_56
+  - first:
+      213: 4728888758737211722
+    second: spider-update_57
+  - first:
+      213: -8245136985737110837
+    second: spider-update_58
+  - first:
+      213: 1962276169154235570
+    second: spider-update_59
+  - first:
+      213: 4860276265147478554
+    second: spider-update_60
+  - first:
+      213: 4181860426841870131
+    second: spider-update_61
+  - first:
+      213: -3713510554213089619
+    second: spider-update_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider-update_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1389
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12427eab8d7345ae0800000000000000
+      internalID: -1561561766802545631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1390
+        width: 224
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5189e942e73a9f290800000000000000
+      internalID: -7856068312795539435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1389
+        width: 225
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d68b0d26d2e3ab0800000000000000
+      internalID: -5026530231667102307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1388
+        width: 225
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c248c7789894afb10800000000000000
+      internalID: 2016004638234149932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1388
+        width: 225
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aca3dda6650ea40800000000000000
+      internalID: 5395407370567993943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_5
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1388
+        width: 225
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f5f241ad45cbbb0800000000000000
+      internalID: -4918963397377171671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_6
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1388
+        width: 225
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08383a74cc0b7cf40800000000000000
+      internalID: 5748757840783442816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1115
+        width: 225
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a8611166f10a350800000000000000
+      internalID: 6025850824655538793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1115
+        width: 225
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583ba0214be1eae90800000000000000
+      internalID: -7012633811023645819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1116
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8925ee1da757530800000000000000
+      internalID: 3852120098350471385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_10
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1115
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a0e9bbff5a70bc0800000000000000
+      internalID: -3816899641390265766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_11
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1115
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9688c57a1e5147e70800000000000000
+      internalID: 9111932004997040233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_12
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1115
+        width: 219
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8ef7a82f6ea2510800000000000000
+      internalID: 1525285353198446802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_13
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1115
+        width: 216
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b380d479a283350800000000000000
+      internalID: 5996589733164628796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 841
+        width: 217
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834e066c109a4330800000000000000
+      internalID: 3695924895856608138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 843
+        width: 216
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6604d2fbe7a7c7360800000000000000
+      internalID: 7168739391658868838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 844
+        width: 221
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a24617530c0fdd0800000000000000
+      internalID: -2454250461148730857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_17
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 844
+        width: 223
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c64d8eaf3156f290800000000000000
+      internalID: -7857003165947967800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_18
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 841
+        width: 225
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565de8093b99f4540800000000000000
+      internalID: 4994379508280644965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_19
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 842
+        width: 222
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f505f16d69a2eb50800000000000000
+      internalID: 6621040689448027636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_20
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 838
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a837b4b452c0d0800000000000000
+      internalID: -3404065233193884740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 562
+        width: 230
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb85a21218db8da0800000000000000
+      internalID: -5941417711251387407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 566
+        width: 238
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f83e750bb548f0800000000000000
+      internalID: -556833346643495987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 566
+        width: 233
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ce3442fc481b0c0800000000000000
+      internalID: -4561718922348073984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_24
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 565
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f23eaf559d38000800000000000000
+      internalID: 37112185253736319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_25
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 568
+        width: 222
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4fe9ea78cee9ae0800000000000000
+      internalID: -1540533955019737897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_26
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 568
+        width: 222
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f23832de2cdaeb0800000000000000
+      internalID: -4706891711773462771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_27
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 565
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd108440cd393d250800000000000000
+      internalID: 5968276504369955293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 290
+        width: 224
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d77da00f6e4110800000000000000
+      internalID: 1247056195529200607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 290
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481decb8f1203410800000000000000
+      internalID: 1454700031845931079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_30
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 288
+        width: 245
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c1bf113864b900800000000000000
+      internalID: 699298402343698782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_31
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 288
+        width: 259
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366cc7b85e5d3f830800000000000000
+      internalID: 4103858867329091171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_32
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 286
+        width: 280
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec5a3b5aa65bff0800000000000000
+      internalID: -20993363337163113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_33
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 459
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb648e60c1fb8c960800000000000000
+      internalID: 7622552496420439740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_34
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 439
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af91433e3f558cb0800000000000000
+      internalID: -4862375501924032606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_35
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 444
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d64e9ea65b2f50800000000000000
+      internalID: 6857670165581453175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_36
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 470
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fffdead08887b480800000000000000
+      internalID: -8883481652954791944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_37
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 455
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e07c82622dbe6b0800000000000000
+      internalID: -5265884277944938942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_38
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 451
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ccc0ba0a592ebe0800000000000000
+      internalID: -1449431612762829737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_39
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 457
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4528d40a712b20800000000000000
+      internalID: 3107899379087134016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_40
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 431
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc838823623557920800000000000000
+      internalID: 2987385351351843021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_41
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 288
+        width: 248
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba543de2186f11a0800000000000000
+      internalID: -6836631278826792261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 288
+        width: 249
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bada4290eeb4100800000000000000
+      internalID: 93429940328704897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 197
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520c2a602bb588ef0800000000000000
+      internalID: -105733771069571035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 185
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ca5897cf2878d0800000000000000
+      internalID: -2848474230010755218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 179
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1b218656718baa0800000000000000
+      internalID: -6145135967241850379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 180
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651998bc2cebd4f30800000000000000
+      internalID: 4561511741443903830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 160
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ae12578a70f6ad0800000000000000
+      internalID: -2706936430925321606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_48
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 158
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe43c6c06fd899080800000000000000
+      internalID: -9180150277508156177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 135
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe558d733bf5020800000000000000
+      internalID: 2332780184435289988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_50
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 130
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52a5168bc2c5020800000000000000
+      internalID: 2331787877489976761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_51
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 142
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59efd7da145f1fa0800000000000000
+      internalID: -5827846918526473890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_52
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 108
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf1e3c0828ad22e0800000000000000
+      internalID: -2148876557228302388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_53
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 119
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df7f7a4f25aafb80800000000000000
+      internalID: -8360188135727988778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_54
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 104
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441968aab0706a7b0800000000000000
+      internalID: -5213471771947790012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_55
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 116
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16c5e40d29999960800000000000000
+      internalID: 7609281464053909023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_56
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 109
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c6ae9a2081925b0800000000000000
+      internalID: -5392752679079744473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_57
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 113
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a419ed6754360a140800000000000000
+      internalID: 4728888758737211722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 251
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca54b89893639d80800000000000000
+      internalID: -8245136985737110837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_59
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 15
+        width: 214
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc07ad77c76b3b10800000000000000
+      internalID: 1962276169154235570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_60
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 25
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b066238b237340800000000000000
+      internalID: 4860276265147478554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_61
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 15
+        width: 214
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f4c2ad6e3f80a30800000000000000
+      internalID: 4181860426841870131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-update_62
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 24
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef67273d5f67cc0800000000000000
+      internalID: -3713510554213089619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spider-update_0: -1561561766802545631
+      spider-update_1: -7856068312795539435
+      spider-update_10: -3816899641390265766
+      spider-update_11: 9111932004997040233
+      spider-update_12: 1525285353198446802
+      spider-update_13: 5996589733164628796
+      spider-update_14: 3695924895856608138
+      spider-update_15: 7168739391658868838
+      spider-update_16: -2454250461148730857
+      spider-update_17: -7857003165947967800
+      spider-update_18: 4994379508280644965
+      spider-update_19: 6621040689448027636
+      spider-update_2: -5026530231667102307
+      spider-update_20: -3404065233193884740
+      spider-update_21: -5941417711251387407
+      spider-update_22: -556833346643495987
+      spider-update_23: -4561718922348073984
+      spider-update_24: 37112185253736319
+      spider-update_25: -1540533955019737897
+      spider-update_26: -4706891711773462771
+      spider-update_27: 5968276504369955293
+      spider-update_28: 1247056195529200607
+      spider-update_29: 1454700031845931079
+      spider-update_3: 2016004638234149932
+      spider-update_30: 699298402343698782
+      spider-update_31: 4103858867329091171
+      spider-update_32: -20993363337163113
+      spider-update_33: 7622552496420439740
+      spider-update_34: -4862375501924032606
+      spider-update_35: 6857670165581453175
+      spider-update_36: -8883481652954791944
+      spider-update_37: -5265884277944938942
+      spider-update_38: -1449431612762829737
+      spider-update_39: 3107899379087134016
+      spider-update_4: 5395407370567993943
+      spider-update_40: 2987385351351843021
+      spider-update_41: -6836631278826792261
+      spider-update_42: 93429940328704897
+      spider-update_43: -105733771069571035
+      spider-update_44: -2848474230010755218
+      spider-update_45: -6145135967241850379
+      spider-update_46: 4561511741443903830
+      spider-update_47: -2706936430925321606
+      spider-update_48: -9180150277508156177
+      spider-update_49: 2332780184435289988
+      spider-update_5: -4918963397377171671
+      spider-update_50: 2331787877489976761
+      spider-update_51: -5827846918526473890
+      spider-update_52: -2148876557228302388
+      spider-update_53: -8360188135727988778
+      spider-update_54: -5213471771947790012
+      spider-update_55: 7609281464053909023
+      spider-update_56: -5392752679079744473
+      spider-update_57: 4728888758737211722
+      spider-update_58: -8245136985737110837
+      spider-update_59: 1962276169154235570
+      spider-update_6: 5748757840783442816
+      spider-update_60: 4860276265147478554
+      spider-update_61: 4181860426841870131
+      spider-update_62: -3713510554213089619
+      spider-update_7: 6025850824655538793
+      spider-update_8: -7012633811023645819
+      spider-update_9: 3852120098350471385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

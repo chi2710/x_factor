@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5344859ece75c9e45b48d816c2fd09aa, type: 3}
+  m_Name: BatTuong
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  icon: {fileID: 21300000, guid: 172edaa5f2174aa41bac2230838f3368, type: 3}
+  iconSelected: {fileID: 21300000, guid: 1d96d7ebe49b2264aa18bcbc100a611c, type: 3}
+  iconGray: {fileID: 4743848637675367437, guid: fb95fb42a3041504cae70b52bb646c25, type: 3}
+  title: "B\u1EACT T\u01AF\u1EDCNG"
+  location: "K\u0128 N\u0102NG"
+  description: "S\u1EED d\u1EE5ng b\u1ED9 tr\u1EE3 l\u1EF1c c\u01A1 kh\xED \u1EDF
+    ch\xE2n \u0111\u1EC3 t\u1EA1o xung l\u1EF1c m\u1EA1nh khi b\u1EADt kh\u1ECFi
+    t\u01B0\u1EDDng, gi\xFAp nh\xE2n v\u1EADt ph\xF3ng xa theo ph\u01B0\u01A1ng ngang
+    v\xE0 t\u0103ng nh\u1EB9 \u0111\u1ED9 cao. C\xF3 th\u1EC3 v\u01B0\u1EE3t qua
+    nh\u1EEFng kho\u1EA3ng tr\u1ED1ng l\u1EDBn ho\u1EB7c ti\u1EBFp c\u1EADn c\xE1c
+    n\u1EC1n t\u1EA3ng n\u1EB1m xa v\u1ECB tr\xED th\xF4ng th\u01B0\u1EDDng."
+  type: "K\u1EF9 n\u0103ng di chuy\u1EC3n"
+  mech: "Ch\u1EE7 \u0111\u1ED9ng, k\xEDch ho\u1EA1t khi ti\u1EBFp x\xFAc v\u1EDBi
+    t\u01B0\u1EDDng."
+  activation: "Nh\u1EA5n ph\xEDm Nh\u1EA3y khi ti\u1EBFp x\xFAc v\u1EDBi t\u01B0\u1EDDng."
+  cost: "Kh\xF4ng"
+  cooldown: 
+  application: "V\u01B0\u1EE3t v\u1EF1c s\xE2u, ti\u1EBFp c\u1EADn khu v\u1EF1c b\xED
+    m\u1EADt v\xE0 n\xE9 tr\xE1nh \u0111\xF2n t\u1EA5n c\xF4ng."
+  notes: 

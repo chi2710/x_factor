@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e2384a12426c414c92efac3854477c7, type: 3}
+  m_Name: TimHuyetThanh
+  m_EditorClassIdentifier: Assembly-CSharp::Mission
+  icon: {fileID: 21300000, guid: 233d0cf647221b24aa9ad91cbba382d4, type: 3}
+  iconSelected: {fileID: 21300000, guid: a81d64e845273b6428b26aec1a934f03, type: 3}
+  title: "T\xCCM HUY\u1EBET THANH"
+  location: "NHI\u1EC6M V\u1EE4"
+  description: "T\xECm ki\u1EBFm m\u1EABu huy\u1EBFt thanh \u0111\u01B0\u1EE3c l\u01B0u
+    gi\u1EEF trong khu v\u1EF1c nghi\xEAn c\u1EE9u \u0111\u01B0\u1EE3c canh gi\u1EEF
+    nghi\xEAm ng\u1EB7t. \u0110\xE2y c\xF3 th\u1EC3 l\xE0 manh m\u1ED1i quan tr\u1ECDng
+    gi\xFAp l\xE0m r\xF5 ngu\u1ED3n g\u1ED1c c\u1EE7a hi\u1EC7n t\u01B0\u1EE3ng bi\u1EBFn
+    \u0111\u1ED5i sinh h\u1ECDc."
+  completed: 0

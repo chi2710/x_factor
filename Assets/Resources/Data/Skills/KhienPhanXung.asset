@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5344859ece75c9e45b48d816c2fd09aa, type: 3}
+  m_Name: KhienPhanXung
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  icon: {fileID: 21300000, guid: f2628b0a0e709f3449a035ef614aa27e, type: 3}
+  iconSelected: {fileID: 21300000, guid: d1950a3a3b74ddc45be7055e280bf7be, type: 3}
+  iconGray: {fileID: -7063909184989177620, guid: 9b28ad0c24d4b914a9ab1d5ab9d622ee, type: 3}
+  title: "KHI\xCAN PH\u1EA2N XUNG"
+  location: "K\u0128 N\u0102NG"
+  description: "Khi nh\xE2n v\u1EADt tr\xFAng \u0111\xF2n, b\u1ED9 t\u1EA1o khi\xEAn
+    t\u1EF1 \u0111\u1ED9ng ph\xE1t xung n\u0103ng l\u01B0\u1EE3ng \u0111\u1EC3 gi\u1EA3m
+    s\xE1t th\u01B0\u01A1ng nh\u1EADn v\xE0o."
+  type: "K\u1EF9 n\u0103ng ph\xF2ng th\u1EE7"
+  mech: "B\u1ECB \u0111\u1ED9ng"
+  activation: "K\xEDch ho\u1EA1t t\u1EF1 \u0111\u1ED9ng khi \u0111\u01B0\u1EE3c trang
+    b\u1ECB"
+  cost: "Kh\xF4ng"
+  cooldown: 
+  application: "Gi\u1EA3m l\u01B0\u1EE3ng m\xE1u m\u1EA5t khi b\u1ECB t\u1EA5n c\xF4ng,
+    t\u0103ng kh\u1EA3 n\u0103ng s\u1ED1ng s\xF3t trong giao tranh."
+  notes: 

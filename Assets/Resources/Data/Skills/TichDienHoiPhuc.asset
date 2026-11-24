@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5344859ece75c9e45b48d816c2fd09aa, type: 3}
+  m_Name: TichDienHoiPhuc
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  icon: {fileID: 21300000, guid: fa8b57dab1582aa41b96fb7378d9bd3a, type: 3}
+  iconSelected: {fileID: 21300000, guid: 19be20250ecbe0b47bff026fbb7c431a, type: 3}
+  iconGray: {fileID: 5440401545218171361, guid: 35d0e74b371284a4c9fb37f6201e048a, type: 3}
+  title: "T\xCDCH \u0110I\u1EC6N H\u1ED2I PH\u1EE4C"
+  location: "K\u0128 N\u0102NG"
+  description: "B\u1ED9 t\xEDch \u0111i\u1EC7n thu h\u1ED3i n\u0103ng l\u01B0\u1EE3ng
+    d\u01B0 t\u1EEB h\u1EC7 th\u1ED1ng tr\u1EE3 l\u1EF1c v\xE0 chuy\u1EC3n l\u1EA1i
+    v\xE0o ngu\u1ED3n d\u1EF1 tr\u1EEF, gi\xFAp nh\xE2n v\u1EADt t\u1EF1 h\u1ED3i
+    n\u0103ng l\u01B0\u1EE3ng theo th\u1EDDi gian khi ng\u1EEBng s\u1EED d\u1EE5ng
+    k\u1EF9 n\u0103ng ti\xEAu hao n\u0103ng l\u01B0\u1EE3ng."
+  type: "K\u1EF9 n\u0103ng h\u1ED7 tr\u1EE3"
+  mech: "B\u1ECB \u0111\u1ED9ng"
+  activation: "T\u1EF1 \u0111\u1ED9ng khi \u0111\u01B0\u1EE3c trang b\u1ECB. B\u1EAFt
+    \u0111\u1EA7u h\u1ED3i sau m\u1ED9t kho\u1EA3ng th\u1EDDi gian kh\xF4ng s\u1EED
+    d\u1EE5ng k\u1EF9 n\u0103ng ti\xEAu hao n\u0103ng l\u01B0\u1EE3ng; qu\xE1 tr\xECnh
+    h\u1ED3i t\u1EA1m d\u1EEBng khi ti\u1EBFp t\u1EE5c d\xF9ng k\u1EF9 n\u0103ng."
+  cost: "Kh\xF4ng"
+  cooldown: 
+  application: "Kh\xF4i ph\u1EE5c n\u0103ng l\u01B0\u1EE3ng gi\u1EEFa c\xE1c \u0111\u1EE3t
+    giao tranh, h\u1ED7 tr\u1EE3 duy tr\xEC c\xE1c k\u1EF9 n\u0103ng t\u1EA5n c\xF4ng."
+  notes: "Gi\u1EDBi h\u1EA1n: Ch\u1EC9 h\u1ED3i \u0111\u1EBFn m\u1EE9c n\u0103ng
+    l\u01B0\u1EE3ng t\u1ED1i \u0111a."

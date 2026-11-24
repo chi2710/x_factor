@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5344859ece75c9e45b48d816c2fd09aa, type: 3}
+  m_Name: BamTuong
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  icon: {fileID: 21300000, guid: cd710123dcde30e42ac137c0ea1c8098, type: 3}
+  iconSelected: {fileID: 21300000, guid: 99c900df27f5b054e8ac9f7f419c9e92, type: 3}
+  iconGray: {fileID: 7094564696293306389, guid: 496876dba2dda1d4ea100a0dbdbc5a7a, type: 3}
+  title: "B\xC1M T\u01AF\u1EDCNG"
+  location: "K\u0128 N\u0102NG"
+  description: "K\xEDch ho\u1EA1t b\u1ED9 b\xE1m t\u1EEB \u1EDF g\u0103ng tay \u0111\u1EC3
+    gi\u1EEF c\u01A1 th\u1EC3 tr\xEAn c\xE1c b\u1EC1 m\u1EB7t t\u01B0\u1EDDng c\xF3
+    th\u1EC3 b\xE1m. Cho ph\xE9p d\u1EEBng gi\u1EEFa v\xE1ch, di chuy\u1EC3n d\u1ECDc
+    t\u01B0\u1EDDng v\xE0 ch\u1ECDn v\u1ECB tr\xED thu\u1EADn l\u1EE3i \u0111\u1EC3
+    b\u1EADt t\u01B0\u1EDDng."
+  type: "K\u1EF9 n\u0103ng di chuy\u1EC3n"
+  mech: "Ch\u1EE7 \u0111\u1ED9ng"
+  activation: "K\xEDch ho\u1EA1t t\u1EF1 \u0111\u1ED9ng khi \u0111\u01B0\u1EE3c trang
+    b\u1ECB"
+  cost: "Kh\xF4ng."
+  cooldown: 
+  application: "V\u01B0\u1EE3t v\xE1ch \u0111\u1EE9ng, ch\u1EDD n\xE9 c\u01A1 quan
+    nguy hi\u1EC3m v\xE0 chu\u1EA9n b\u1ECB c\xFA b\u1EADt xa."
+  notes: 

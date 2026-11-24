@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e2384a12426c414c92efac3854477c7, type: 3}
+  m_Name: DotNhapPhongThiNghiem
+  m_EditorClassIdentifier: Assembly-CSharp::Mission
+  icon: {fileID: 21300000, guid: 593503a10c21a7c448af972c7cd08c8a, type: 3}
+  iconSelected: {fileID: 21300000, guid: c66720a13038fdf4698ecdfb1f1e5435, type: 3}
+  title: "\u0110\u1ED8T NH\u1EACP PH\xD2NG TH\xCD NGHI\u1EC6M"
+  location: "NHI\u1EC6M V\u1EE4"
+  description: "S\u1EED d\u1EE5ng th\u1EBB truy c\u1EADp \u0111\u1EC3 ti\u1EBFn v\xE0o
+    ph\xF2ng th\xED nghi\u1EC7m \u0111\u01B0\u1EE3c b\u1EA3o v\u1EC7 nghi\xEAm ng\u1EB7t.
+    V\u01B0\u1EE3t qua h\u1EC7 th\u1ED1ng an ninh v\xE0 t\xECm h\u1ED3 s\u01A1 nghi\xEAn
+    c\u1EE9u li\xEAn quan \u0111\u1EBFn m\u1EABu huy\u1EBFt thanh c\xF9ng hi\u1EC7n
+    t\u01B0\u1EE3ng bi\u1EBFn \u0111\u1ED5i sinh h\u1ECDc."
+  completed: 0

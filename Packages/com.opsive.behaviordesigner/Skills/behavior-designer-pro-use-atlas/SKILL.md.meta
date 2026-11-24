@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2d6dc699b26b4024e93b7be00ca66a29
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368344
+  packageName: Behavior Designer Pro 3 - DOTS Powered Behavior Trees
+  packageVersion: 3.3.4
+  assetPath: Packages/com.opsive.behaviordesigner/Skills/behavior-designer-pro-use-atlas/SKILL.md
+  uploadId: 1046922

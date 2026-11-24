@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5344859ece75c9e45b48d816c2fd09aa, type: 3}
+  m_Name: NhayPhanLuc
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  icon: {fileID: 21300000, guid: 681c30e26b6de6d45ad8fca14347930d, type: 3}
+  iconSelected: {fileID: 21300000, guid: a4f399303c535ef49bad1855753b9501, type: 3}
+  iconGray: {fileID: 7151359642687651816, guid: 7737c858e9d235447a9812b5d59d99fd, type: 3}
+  title: "NH\u1EA2Y PH\u1EA2N L\u1EF0C"
+  location: "K\u0128 N\u0102NG"
+  description: "N\xE9n l\u1EF1c \u0111\u1EA9y \u1EDF b\u1ED9 tr\u1EE3 l\u1EF1c ch\xE2n
+    r\u1ED3i ph\xF3ng th\u1EB3ng l\xEAn cao, \u0111\u1EA1t t\u1EDBi nh\u1EEFng n\u1EC1n
+    v\u01B0\u1EE3t ngo\xE0i t\u1EA7m nh\u1EA3y th\u01B0\u1EDDng."
+  type: "K\u1EF9 n\u0103ng di chuy\u1EC3n"
+  mech: "Ch\u1EE7 \u0111\u1ED9ng"
+  activation: "Gi\u1EEF ph\xEDm Nh\u1EA3y khi \u0111\u1EE9ng tr\xEAn m\u1EB7t \u0111\u1EA5t
+    \u0111\u1EC3 n\u1EA1p l\u1EF1c, sau \u0111\xF3 th\u1EA3 \u0111\u1EC3 b\u1EADt
+    cao."
+  cost: "Kh\xF4ng ti\xEAu hao n\u0103ng l\u01B0\u1EE3ng; c\u1EA7n th\u1EDDi gian
+    n\u1EA1p l\u1EF1c."
+  cooldown: "Ch\u1EC9 n\u1EA1p l\u1EA1i sau khi ch\u1EA1m \u0111\u1EA5t."
+  application: "T\u0103ng t\u1ED1c \u0111\u1ED9 v\xE0 kh\u1EA3 n\u0103ng di chuy\u1EC3n,
+    th\xEDch \u1EE9ng \u0111\u1ECBa h\xECnh."
+  notes: 

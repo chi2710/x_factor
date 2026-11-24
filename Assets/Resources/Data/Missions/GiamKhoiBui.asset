@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e2384a12426c414c92efac3854477c7, type: 3}
+  m_Name: GiamKhoiBui
+  m_EditorClassIdentifier: Assembly-CSharp::Mission
+  icon: {fileID: 21300000, guid: a3b88e20f8dec5d4baa2ec78c9b71cb8, type: 3}
+  iconSelected: {fileID: 21300000, guid: 1ea790ced026aba41a3475649649119b, type: 3}
+  title: "GI\u1EA2M KH\xD3I B\u1EE4I"
+  location: "NHI\u1EC6M V\u1EE4"
+  description: "X\xE1c \u0111\u1ECBnh c\xE1c c\u1EE5m m\xE1y \u0111ang ph\xE1t t\xE1n
+    kh\xF3i \u0111\u1ED9c trong khu ph\u1EBF th\u1EA3i v\xE0 v\xF4 hi\u1EC7u h\xF3a
+    ch\xFAng. Kh\xF4i ph\u1EE5c h\u1EC7 th\u1ED1ng th\xF4ng gi\xF3 \u0111\u1EC3 c\u1EA3i
+    thi\u1EC7n t\u1EA7m nh\xECn v\xE0 m\u1EDF \u0111\u01B0\u1EDDng \u0111i qua v\xF9ng
+    \xF4 nhi\u1EC5m."
+  completed: 0

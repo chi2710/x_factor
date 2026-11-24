@@ -1,0 +1,2535 @@
+fileFormatVersion: 2
+guid: 5ddd631643135d247a6496a1aefb21d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5164377777639775887
+    second: DUST BG_0
+  - first:
+      213: 4060363186494117940
+    second: DUST BG_1
+  - first:
+      213: -7565658976153451931
+    second: DUST BG_2
+  - first:
+      213: -7610333686519649623
+    second: DUST BG_3
+  - first:
+      213: 7071510377955316087
+    second: DUST BG_4
+  - first:
+      213: -1359457892256499667
+    second: DUST BG_5
+  - first:
+      213: -4954295166791654318
+    second: DUST BG_6
+  - first:
+      213: 267134585384229378
+    second: DUST BG_7
+  - first:
+      213: 1453691821965661880
+    second: DUST BG_8
+  - first:
+      213: 8040896408929625982
+    second: DUST BG_9
+  - first:
+      213: -1810433157548244892
+    second: DUST BG_10
+  - first:
+      213: -2424225826320542698
+    second: DUST BG_11
+  - first:
+      213: -3263069445052236579
+    second: DUST BG_12
+  - first:
+      213: 473740867804855437
+    second: DUST BG_13
+  - first:
+      213: 6922459201597870160
+    second: DUST BG_14
+  - first:
+      213: -1964992779895773875
+    second: DUST BG_15
+  - first:
+      213: -5742774836588731754
+    second: DUST BG_16
+  - first:
+      213: 3679914763160024399
+    second: DUST BG_17
+  - first:
+      213: -4223404396133492660
+    second: DUST BG_18
+  - first:
+      213: -3600959243962517934
+    second: DUST BG_19
+  - first:
+      213: 5170762520500566099
+    second: DUST BG_20
+  - first:
+      213: -6376953077691766085
+    second: DUST BG_21
+  - first:
+      213: -65071377141923506
+    second: DUST BG_22
+  - first:
+      213: 5806280151866327228
+    second: DUST BG_23
+  - first:
+      213: -8883248192971795694
+    second: DUST BG_24
+  - first:
+      213: 5309894967022432909
+    second: DUST BG_25
+  - first:
+      213: 2197208819320596620
+    second: DUST BG_26
+  - first:
+      213: 4616040209570296997
+    second: DUST BG_27
+  - first:
+      213: -3756717248283153833
+    second: DUST BG_28
+  - first:
+      213: 8479191019855729764
+    second: DUST BG_29
+  - first:
+      213: 5310091127971404779
+    second: DUST BG_30
+  - first:
+      213: -3723771417378099707
+    second: DUST BG_31
+  - first:
+      213: -5779686378608964359
+    second: DUST BG_32
+  - first:
+      213: 110131845672597947
+    second: DUST BG_33
+  - first:
+      213: -5444520969107327885
+    second: DUST BG_34
+  - first:
+      213: 5345521061810415204
+    second: DUST BG_35
+  - first:
+      213: -7335619896546252236
+    second: DUST BG_36
+  - first:
+      213: 1521871730301005375
+    second: DUST BG_37
+  - first:
+      213: -565820903501118952
+    second: DUST BG_38
+  - first:
+      213: 962119242492881550
+    second: DUST BG_39
+  - first:
+      213: 9090998613704184985
+    second: DUST BG_40
+  - first:
+      213: 6623341980575234273
+    second: DUST BG_41
+  - first:
+      213: 1683956929725094551
+    second: DUST BG_42
+  - first:
+      213: 2630617602006412179
+    second: DUST BG_43
+  - first:
+      213: 4531050584535891925
+    second: DUST BG_44
+  - first:
+      213: -8867371406375117808
+    second: DUST BG_45
+  - first:
+      213: -9172327875437765587
+    second: DUST BG_46
+  - first:
+      213: -7850999491977936301
+    second: DUST BG_47
+  - first:
+      213: 2227244199616258137
+    second: DUST BG_48
+  - first:
+      213: 6497664458938544077
+    second: DUST BG_49
+  - first:
+      213: -1144105557025887835
+    second: DUST BG_50
+  - first:
+      213: -7142412476843872542
+    second: DUST BG_51
+  - first:
+      213: 2853507497165352913
+    second: DUST BG_52
+  - first:
+      213: -6418832448615358467
+    second: DUST BG_53
+  - first:
+      213: -5615729944717144468
+    second: DUST BG_54
+  - first:
+      213: -6868149682024618084
+    second: DUST BG_55
+  - first:
+      213: -6410240363867798137
+    second: DUST BG_56
+  - first:
+      213: -795960019470600241
+    second: DUST BG_57
+  - first:
+      213: 5403483597352059127
+    second: DUST BG_58
+  - first:
+      213: 7404373573823633193
+    second: DUST BG_59
+  - first:
+      213: 6330102191519522467
+    second: DUST BG_60
+  - first:
+      213: 8087269117134272880
+    second: DUST BG_61
+  - first:
+      213: 4595180922474453680
+    second: DUST BG_62
+  - first:
+      213: 6073580940236472151
+    second: DUST BG_63
+  - first:
+      213: 4435997084808205808
+    second: DUST BG_64
+  - first:
+      213: 7661615569273501533
+    second: DUST BG_65
+  - first:
+      213: 4368845247698683036
+    second: DUST BG_66
+  - first:
+      213: -8551078950231925167
+    second: DUST BG_67
+  - first:
+      213: -7343387696326465191
+    second: DUST BG_68
+  - first:
+      213: 7007455165429613432
+    second: DUST BG_69
+  - first:
+      213: -4206987220639207695
+    second: DUST BG_70
+  - first:
+      213: 7449890534449688213
+    second: DUST BG_71
+  - first:
+      213: 5383069930604799226
+    second: DUST BG_72
+  - first:
+      213: -321257195761273267
+    second: DUST BG_73
+  - first:
+      213: 768694397493840696
+    second: DUST BG_74
+  - first:
+      213: -2131501577678366955
+    second: DUST BG_75
+  - first:
+      213: -6631085398753763172
+    second: DUST BG_76
+  - first:
+      213: -892116241645069102
+    second: DUST BG_77
+  - first:
+      213: 3198402058696339923
+    second: DUST BG_78
+  - first:
+      213: 8815075997220100598
+    second: DUST BG_79
+  - first:
+      213: -6757136003771451450
+    second: DUST BG_80
+  - first:
+      213: -2286542648836235944
+    second: DUST BG_81
+  - first:
+      213: -8033827391928515296
+    second: DUST BG_82
+  - first:
+      213: -8556373319604103165
+    second: DUST BG_83
+  - first:
+      213: 4916792946881937375
+    second: DUST BG_84
+  - first:
+      213: -5929690407874013198
+    second: DUST BG_85
+  - first:
+      213: -4751939368844691839
+    second: DUST BG_86
+  - first:
+      213: 1446038306848147943
+    second: DUST BG_87
+  - first:
+      213: -2635554284847602639
+    second: DUST BG_88
+  - first:
+      213: -742043851661527630
+    second: DUST BG_89
+  - first:
+      213: 1076148827798595134
+    second: DUST BG_90
+  - first:
+      213: 4800081816993269647
+    second: DUST BG_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DUST BG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6069
+        height: 1504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ed32a0a3e8ba740800000000000000
+      internalID: 5164377777639775887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1451
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381e0e2ece495830800000000000000
+      internalID: 4060363186494117940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1447
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c0aaee31610790800000000000000
+      internalID: -7565658976153451931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_3
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1444
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaaec855d9a26690800000000000000
+      internalID: -7610333686519649623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1454
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d387e83d032260800000000000000
+      internalID: 7071510377955316087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_5
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1447
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2833fcef3c322de0800000000000000
+      internalID: -1359457892256499667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_6
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1458
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254e2f67bcece3bb0800000000000000
+      internalID: -4954295166791654318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_7
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1453
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a5c057d7d05b300800000000000000
+      internalID: 267134585384229378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_8
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1460
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65725920d8c2410800000000000000
+      internalID: 1453691821965661880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_9
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1432
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77e6f17ea0079f60800000000000000
+      internalID: 8040896408929625982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1448
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4608fb2a2ac00e6e0800000000000000
+      internalID: -1810433157548244892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1448
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61416de747b6b5ed0800000000000000
+      internalID: -2424225826320542698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1451
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcfa32d0af37b2d0800000000000000
+      internalID: -3263069445052236579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1442
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf71d2fc0139600800000000000000
+      internalID: 473740867804855437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1447
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050106397f3811060800000000000000
+      internalID: 6922459201597870160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_15
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1444
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45ea184a71fab4e0800000000000000
+      internalID: -1964992779895773875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1442
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692a31076b09d40b0800000000000000
+      internalID: -5742774836588731754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_17
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1448
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f457ed5eafea11330800000000000000
+      internalID: 3679914763160024399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_18
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1452
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48d3a904147365c0800000000000000
+      internalID: -4223404396133492660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_19
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1446
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25674f475a2d60ec0800000000000000
+      internalID: -3600959243962517934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_20
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1442
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f654dd1d32c740800000000000000
+      internalID: 5170762520500566099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_21
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1447
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba29de56f28087a0800000000000000
+      internalID: -6376953077691766085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1440
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4109606de1d81ff0800000000000000
+      internalID: -65071377141923506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1434
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0c46ef80d049050800000000000000
+      internalID: 5806280151866327228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1433
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213194e75dc58b480800000000000000
+      internalID: -8883248192971795694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1436
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82b108e65980b940800000000000000
+      internalID: 5309894967022432909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1439
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88a5f4a7cd0e7e10800000000000000
+      internalID: 2197208819320596620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_27
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47b502d187f0040800000000000000
+      internalID: 4616040209570296997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_28
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1439
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aef7e01957ddbc0800000000000000
+      internalID: -3756717248283153833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1441
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464de21de432ca570800000000000000
+      internalID: 8479191019855729764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_30
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1433
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb50bf2fbb31b940800000000000000
+      internalID: 5310091127971404779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_31
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1422
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eec6210a1825cc0800000000000000
+      internalID: -3723771417378099707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_32
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1440
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc49d95cdd6acfa0800000000000000
+      internalID: -5779686378608964359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_33
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f5c38454478100800000000000000
+      internalID: 110131845672597947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_34
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1434
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3743130660d2174b0800000000000000
+      internalID: -5444520969107327885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_35
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1439
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466249c751b1f2a40800000000000000
+      internalID: 5345521061810415204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_36
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1441
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aa213e194a23a90800000000000000
+      internalID: -7335619896546252236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_37
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1444
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eec468646ce1510800000000000000
+      internalID: 1521871730301005375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_38
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8124358d2ecc528f0800000000000000
+      internalID: -565820903501118952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_39
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1440
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2b508a522a5d00800000000000000
+      internalID: 962119242492881550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_40
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 1438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994186fa217b92e70800000000000000
+      internalID: 9090998613704184985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_41
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 1441
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87e1a7076daeb50800000000000000
+      internalID: 6623341980575234273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1434
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a5255d7ed9e5710800000000000000
+      internalID: 1683956929725094551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1434
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b6b7b75c4d18420800000000000000
+      internalID: 2630617602006412179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df7696008681ee30800000000000000
+      internalID: 4531050584535891925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1435
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1e8fefa4c0f480800000000000000
+      internalID: -8867371406375117808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1429
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c5e15f46855b080800000000000000
+      internalID: -9172327875437765587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1435
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35202e4fe85ab0390800000000000000
+      internalID: -7850999491977936301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1433
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9502d229cc2c8ee10800000000000000
+      internalID: 2227244199616258137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_49
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf66b836675c2a50800000000000000
+      internalID: 6497664458938544077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_50
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1434
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ebefbe025f10f0800000000000000
+      internalID: -1144105557025887835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2766c1bd01ec90800000000000000
+      internalID: -7142412476843872542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_52
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1429
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df647c33f1b99720800000000000000
+      internalID: 2853507497165352913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_53
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1423
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffd78b75e9bbe6a0800000000000000
+      internalID: -6418832448615358467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e4c926e5be012b0800000000000000
+      internalID: -5615729944717144468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_55
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97e5b2d04e6fa0a0800000000000000
+      internalID: -6868149682024618084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_56
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1435
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7850aca1a504a07a0800000000000000
+      internalID: -6410240363867798137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_57
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1431
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ba08549e24f4f0800000000000000
+      internalID: -795960019470600241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_58
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1432
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0c1d1f3b70dfa40800000000000000
+      internalID: 5403483597352059127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_59
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1430
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9271c0c098e91c660800000000000000
+      internalID: 7404373573823633193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_60
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1435
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae5175a76a09d750800000000000000
+      internalID: 6330102191519522467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_61
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1432
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07976c1f960cb3070800000000000000
+      internalID: 8087269117134272880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_62
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1429
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baddb2e3bc55cf30800000000000000
+      internalID: 4595180922474453680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_63
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1430
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fb0699fa1b94450800000000000000
+      internalID: 6073580940236472151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_64
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1430
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f559a088d3df8d30800000000000000
+      internalID: 4435997084808205808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_65
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1434
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57362c64c6835a60800000000000000
+      internalID: 7661615569273501533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_66
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1435
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94cbbb0b9141ac30800000000000000
+      internalID: 4368845247698683036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_67
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e1b151007745980800000000000000
+      internalID: -8551078950231925167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_68
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1433
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ac701ccb071a90800000000000000
+      internalID: -7343387696326465191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_69
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1433
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87388ea885b7f3160800000000000000
+      internalID: 7007455165429613432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_70
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1430
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe21339967cd95c0800000000000000
+      internalID: -4206987220639207695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_71
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1427
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e2b6948f3536760800000000000000
+      internalID: 7449890534449688213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_72
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af429c6c49184ba40800000000000000
+      internalID: 5383069930604799226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_73
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1434
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d467c15584aaa8bf0800000000000000
+      internalID: -321257195761273267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_74
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1432
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b04775b73faaa00800000000000000
+      internalID: 768694397493840696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_75
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517db48bb926b62e0800000000000000
+      internalID: -2131501577678366955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_76
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1435
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90a00c76f6a9f3a0800000000000000
+      internalID: -6631085398753763172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_77
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1436
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc936e31019e93f0800000000000000
+      internalID: -892116241645069102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_78
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1397df9b1036c20800000000000000
+      internalID: 3198402058696339923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_79
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1428
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9506a4ae0755a70800000000000000
+      internalID: 8815075997220100598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_80
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1434
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7333cfa94d932a0800000000000000
+      internalID: -6757136003771451450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_81
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1434
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dd55453919440e0800000000000000
+      internalID: -2286542648836235944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_82
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1432
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0254c455d8c128090800000000000000
+      internalID: -8033827391928515296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_83
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1434
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081e57acc7a14980800000000000000
+      internalID: -8556373319604103165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_84
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1435
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf3b098225fb3440800000000000000
+      internalID: 4916792946881937375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_85
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1435
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7d0aaadf185bda0800000000000000
+      internalID: -5929690407874013198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_86
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18671d52258bd0eb0800000000000000
+      internalID: -4751939368844691839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_87
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e98a4bbd2c511410800000000000000
+      internalID: 1446038306848147943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_88
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13466697751ac6bd0800000000000000
+      internalID: -2635554284847602639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_89
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b3f56c0bb3b5f0800000000000000
+      internalID: -742043851661527630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_90
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 1435
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36636e38af3fee00800000000000000
+      internalID: 1076148827798595134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST BG_91
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 1435
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8702ba0bf05d9240800000000000000
+      internalID: 4800081816993269647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DUST BG_0: 5164377777639775887
+      DUST BG_1: 4060363186494117940
+      DUST BG_10: -1810433157548244892
+      DUST BG_11: -2424225826320542698
+      DUST BG_12: -3263069445052236579
+      DUST BG_13: 473740867804855437
+      DUST BG_14: 6922459201597870160
+      DUST BG_15: -1964992779895773875
+      DUST BG_16: -5742774836588731754
+      DUST BG_17: 3679914763160024399
+      DUST BG_18: -4223404396133492660
+      DUST BG_19: -3600959243962517934
+      DUST BG_2: -7565658976153451931
+      DUST BG_20: 5170762520500566099
+      DUST BG_21: -6376953077691766085
+      DUST BG_22: -65071377141923506
+      DUST BG_23: 5806280151866327228
+      DUST BG_24: -8883248192971795694
+      DUST BG_25: 5309894967022432909
+      DUST BG_26: 2197208819320596620
+      DUST BG_27: 4616040209570296997
+      DUST BG_28: -3756717248283153833
+      DUST BG_29: 8479191019855729764
+      DUST BG_3: -7610333686519649623
+      DUST BG_30: 5310091127971404779
+      DUST BG_31: -3723771417378099707
+      DUST BG_32: -5779686378608964359
+      DUST BG_33: 110131845672597947
+      DUST BG_34: -5444520969107327885
+      DUST BG_35: 5345521061810415204
+      DUST BG_36: -7335619896546252236
+      DUST BG_37: 1521871730301005375
+      DUST BG_38: -565820903501118952
+      DUST BG_39: 962119242492881550
+      DUST BG_4: 7071510377955316087
+      DUST BG_40: 9090998613704184985
+      DUST BG_41: 6623341980575234273
+      DUST BG_42: 1683956929725094551
+      DUST BG_43: 2630617602006412179
+      DUST BG_44: 4531050584535891925
+      DUST BG_45: -8867371406375117808
+      DUST BG_46: -9172327875437765587
+      DUST BG_47: -7850999491977936301
+      DUST BG_48: 2227244199616258137
+      DUST BG_49: 6497664458938544077
+      DUST BG_5: -1359457892256499667
+      DUST BG_50: -1144105557025887835
+      DUST BG_51: -7142412476843872542
+      DUST BG_52: 2853507497165352913
+      DUST BG_53: -6418832448615358467
+      DUST BG_54: -5615729944717144468
+      DUST BG_55: -6868149682024618084
+      DUST BG_56: -6410240363867798137
+      DUST BG_57: -795960019470600241
+      DUST BG_58: 5403483597352059127
+      DUST BG_59: 7404373573823633193
+      DUST BG_6: -4954295166791654318
+      DUST BG_60: 6330102191519522467
+      DUST BG_61: 8087269117134272880
+      DUST BG_62: 4595180922474453680
+      DUST BG_63: 6073580940236472151
+      DUST BG_64: 4435997084808205808
+      DUST BG_65: 7661615569273501533
+      DUST BG_66: 4368845247698683036
+      DUST BG_67: -8551078950231925167
+      DUST BG_68: -7343387696326465191
+      DUST BG_69: 7007455165429613432
+      DUST BG_7: 267134585384229378
+      DUST BG_70: -4206987220639207695
+      DUST BG_71: 7449890534449688213
+      DUST BG_72: 5383069930604799226
+      DUST BG_73: -321257195761273267
+      DUST BG_74: 768694397493840696
+      DUST BG_75: -2131501577678366955
+      DUST BG_76: -6631085398753763172
+      DUST BG_77: -892116241645069102
+      DUST BG_78: 3198402058696339923
+      DUST BG_79: 8815075997220100598
+      DUST BG_8: 1453691821965661880
+      DUST BG_80: -6757136003771451450
+      DUST BG_81: -2286542648836235944
+      DUST BG_82: -8033827391928515296
+      DUST BG_83: -8556373319604103165
+      DUST BG_84: 4916792946881937375
+      DUST BG_85: -5929690407874013198
+      DUST BG_86: -4751939368844691839
+      DUST BG_87: 1446038306848147943
+      DUST BG_88: -2635554284847602639
+      DUST BG_89: -742043851661527630
+      DUST BG_9: 8040896408929625982
+      DUST BG_90: 1076148827798595134
+      DUST BG_91: 4800081816993269647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

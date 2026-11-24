@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5344859ece75c9e45b48d816c2fd09aa, type: 3}
+  m_Name: MocCau
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  icon: {fileID: 21300000, guid: 14f42d6d5d3a3b1469928331ae83331d, type: 3}
+  iconSelected: {fileID: 21300000, guid: 65ff580804661364693e34948d41792e, type: 3}
+  iconGray: {fileID: 2695787537913858441, guid: 4172e6b5c95c2044f8f8ea33db681acd, type: 3}
+  title: "M\xD3C C\xC2U"
+  location: "K\u0128 N\u0102NG"
+  description: "B\u1EAFn d\xE2y m\xF3c v\xE0o \u0111i\u1EC3m neo t\u01B0\u01A1ng
+    th\xEDch \u0111\u1EC3 k\xE9o nh\xE2n v\u1EADt, t\u0103ng t\u1ED1c \u0111\u1ED9
+    di chuy\u1EC3n, v\u01B0\u1EE3t ch\u01B0\u1EDBng ng\u1EA1i v\u1EADt."
+  type: "K\u1EF9 n\u0103ng di chuy\u1EC3n v\xE0 t\u01B0\u01A1ng t\xE1c"
+  mech: "Ch\u1EE7 \u0111\u1ED9ng"
+  activation: "H\u01B0\u1EDBng v\u1EC1 \u0111i\u1EC3m neo ho\u1EB7c v\u1EADt th\u1EC3
+    h\u1EE3p l\u1EC7 r\u1ED3i nh\u1EA5n ph\xEDm M\xF3c; nh\u1EA5n Nh\u1EA3y \u0111\u1EC3
+    nh\u1EA3 m\xF3c khi \u0111ang di chuy\u1EC3n."
+  cost: "Kh\xF4ng ti\xEAu hao n\u0103ng l\u01B0\u1EE3ng."
+  cooldown: "Kh\xF4ng"
+  application: "V\u01B0\u1EE3t v\u1EF1c, ti\u1EBFp c\u1EADn n\u1EC1n cao v\xE0 k\xE9o
+    v\u1EADt th\u1EC3 \u0111\u1EC3 gi\u1EA3i \u0111\u1ED1."
+  notes: 

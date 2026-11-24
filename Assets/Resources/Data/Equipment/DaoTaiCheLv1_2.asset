@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3ec017cdbc316f48900f2d621a4eafa, type: 3}
+  m_Name: DaoTaiCheLv1_2
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  icon: {fileID: 21300000, guid: a827433880ed09243b479e155a84d2e1, type: 3}
+  iconSelected: {fileID: 21300000, guid: a827433880ed09243b479e155a84d2e1, type: 3}
+  title: "DAO T\u00C1I CH\u1EBE / LV1"
+  location: "V\u0168 KH\u00CD"
+  description: "L\u01B0\u1EE1i dao nh\u1ECF g\u1ECDn, cho ph\u00E9p tung c\u00E1c nh\u00E1t \u0111\u00E2m v\u00E0 ch\u00E9m nhanh \u1EDF c\u1EF1 ly \u00E1p s\u00E1t. T\u1EA7m \u0111\u00E1nh ng\u1EAFn v\u00E0 s\u00E1t th\u01B0\u01A1ng m\u1ED7i \u0111\u00F2n th\u1EA5p.\nLo\u1EA1i v\u0169 kh\u00ED: C\u1EADn chi\u1EBFn\nT\u1ED1c \u0111\u1ED9 \u0111\u00E1nh: Nhanh\nT\u1EA7m \u0111\u00E1nh: R\u1EA5t g\u1EA7n\nS\u00E1t th\u01B0\u01A1ng: 20 s\u00E1t th\u01B0\u01A1ng/\u0111\u00F2n"

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e2384a12426c414c92efac3854477c7, type: 3}
+  m_Name: TaiCheVatLieuCu
+  m_EditorClassIdentifier: Assembly-CSharp::Mission
+  icon: {fileID: 21300000, guid: b5591f2dc5badb149828a8d6d9b9916f, type: 3}
+  iconSelected: {fileID: 21300000, guid: 0db433293a3d39a438ca80c66440589d, type: 3}
+  title: "T\xC1I CH\u1EBE V\u1EACT LI\u1EC6U C\u0168"
+  location: "NHI\u1EC6M V\u1EE4"
+  description: "Thu gom linh ki\u1EC7n t\u1EEB m\xE1y m\xF3c h\u1ECFng v\xE0 \u0111\u01B0a
+    \u0111\u1EBFn tr\u1EA1m t\xE1i ch\u1EBF. Nh\u1EEFng v\u1EADt li\u1EC7u thu h\u1ED3i
+    c\xF3 th\u1EC3 \u0111\u01B0\u1EE3c s\u1EED d\u1EE5ng \u0111\u1EC3 s\u1EEDa ch\u1EEFa
+    thi\u1EBFt b\u1ECB v\xE0 n\xE2ng c\u1EA5p trang b\u1ECB."
+  completed: 0

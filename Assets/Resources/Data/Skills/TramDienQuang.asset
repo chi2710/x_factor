@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5344859ece75c9e45b48d816c2fd09aa, type: 3}
+  m_Name: TramDienQuang
+  m_EditorClassIdentifier: Assembly-CSharp::Skill
+  icon: {fileID: 21300000, guid: cb3729c6c2bde454fa42924a5ade38e2, type: 3}
+  iconSelected: {fileID: 21300000, guid: b541bbe6e336dab418aed20399cde151, type: 3}
+  iconGray: {fileID: -4752600401730097446, guid: ca217c4af2fa93640a45463fc10a4f17, type: 3}
+  title: "TR\u1EA2M \u0110I\u1EC6N QUANG"
+  location: "K\u0128 N\u0102NG"
+  description: "D\u1ED3n \u0111i\u1EC7n n\u0103ng v\xE0o l\u01B0\u1EE1i ki\u1EBFm
+    r\u1ED3i tung m\u1ED9t \u0111\u01B0\u1EDDng ch\xE9m n\u0103ng l\u01B0\u1EE3ng
+    bay th\u1EB3ng v\u1EC1 ph\xEDa tr\u01B0\u1EDBc. \u0110\u01B0\u1EDDng ch\xE9m
+    xuy\xEAn qua c\xE1c k\u1EBB \u0111\u1ECBch tr\xEAn qu\u1EF9 \u0111\u1EA1o nh\u01B0ng
+    b\u1ECB ch\u1EB7n b\u1EDFi \u0111\u1ECBa h\xECnh ki\xEAn c\u1ED1."
+  type: "K\u1EF9 n\u0103ng t\u1EA5n c\xF4ng t\u1EA7m xa"
+  mech: "Ch\u1EE7 \u0111\u1ED9ng"
+  activation: "Gi\u1EEF ph\xEDm T\u1EA5n c\xF4ng \u0111\u1EC3 t\xEDch l\u1EF1c, sau
+    \u0111\xF3 th\u1EA3 \u0111\u1EC3 ph\xF3ng \u0111\u01B0\u1EDDng ch\xE9m."
+  cost: "Ti\xEAu hao 25% n\u0103ng l\u01B0\u1EE3ng khi tung \u0111\xF2n."
+  cooldown: "C\u1EA7n th\u1EDDi gian t\xEDch l\u1EF1c v\xE0 ph\u1EE5c h\u1ED3i \u0111\u1ED9ng
+    t\xE1c sau \u0111\xF2n \u0111\xE1nh."
+  application: "T\u1EA5n c\xF4ng k\u1EBB \u0111\u1ECBch ngo\xE0i t\u1EA7m ki\u1EBFm."
+  notes: 

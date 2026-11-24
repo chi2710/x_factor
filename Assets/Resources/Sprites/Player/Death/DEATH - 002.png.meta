@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: b0322f79167a37c4c8e4c2dd9841c2f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -900752714639582572
+    second: DEATH - 002_0
+  - first:
+      213: -8442023257918178459
+    second: DEATH - 002_1
+  - first:
+      213: -1846871069796664730
+    second: DEATH - 002_2
+  - first:
+      213: -2807470282813964320
+    second: DEATH - 002_3
+  - first:
+      213: -805282056389610019
+    second: DEATH - 002_4
+  - first:
+      213: -8802587063474364788
+    second: DEATH - 002_5
+  - first:
+      213: -3642689312545352294
+    second: DEATH - 002_6
+  - first:
+      213: -176186714108433988
+    second: DEATH - 002_7
+  - first:
+      213: 7062202698380499120
+    second: DEATH - 002_8
+  - first:
+      213: -5340825947255957289
+    second: DEATH - 002_9
+  - first:
+      213: -6018349287528381187
+    second: DEATH - 002_10
+  - first:
+      213: 3377980843464026876
+    second: DEATH - 002_11
+  - first:
+      213: -4276405613109176400
+    second: DEATH - 002_12
+  - first:
+      213: 724066992444130913
+    second: DEATH - 002_13
+  - first:
+      213: 3504546034368892681
+    second: DEATH - 002_14
+  - first:
+      213: -4503021208371110702
+    second: DEATH - 002_15
+  - first:
+      213: 215889535165904240
+    second: DEATH - 002_16
+  - first:
+      213: 3912853092916741376
+    second: DEATH - 002_17
+  - first:
+      213: 7206852154587063357
+    second: DEATH - 002_18
+  - first:
+      213: 6738799315685883703
+    second: DEATH - 002_19
+  - first:
+      213: -6511235770181322720
+    second: DEATH - 002_20
+  - first:
+      213: -3279209998834839129
+    second: DEATH - 002_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DEATH - 002_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 292
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a507dad22ef73f0800000000000000
+      internalID: -900752714639582572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 97
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b733e1398e7da80800000000000000
+      internalID: -8442023257918178459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 64
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66af2d21c889e56e0800000000000000
+      internalID: -1846871069796664730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 63
+        width: 304
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef786307acd909d0800000000000000
+      internalID: -2807470282813964320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_4
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 63
+        width: 103
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5b6ec7c3013d4f0800000000000000
+      internalID: -805282056389610019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_5
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 63
+        width: 351
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e592134bde6d580800000000000000
+      internalID: -8802587063474364788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_6
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 63
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a955f9abe51927dc0800000000000000
+      internalID: -3642689312545352294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_7
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 63
+        width: 376
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96c63fd1f0e8df0800000000000000
+      internalID: -176186714108433988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_8
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 63
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b856c0efebf10260800000000000000
+      internalID: 7062202698380499120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_9
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 62
+        width: 409
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d89e9e091391e5b0800000000000000
+      internalID: -5340825947255957289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_10
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 63
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df445a6a5378a7ca0800000000000000
+      internalID: -6018349287528381187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_11
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 62
+        width: 412
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa6fb80eaff0ee20800000000000000
+      internalID: 3377980843464026876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_12
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 62
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7142390c727a4c0800000000000000
+      internalID: -4276405613109176400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_13
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 62
+        width: 419
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c736e7176c0a00800000000000000
+      internalID: 724066992444130913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_14
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 63
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fcf85ec06a2a030800000000000000
+      internalID: 3504546034368892681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 82
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc5dfaa11e0281c0800000000000000
+      internalID: -4503021208371110702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075b94e636efef200800000000000000
+      internalID: 215889535165904240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_17
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 79
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0054795282f3d4630800000000000000
+      internalID: 3912853092916741376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_18
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 79
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34abeed9d1e30460800000000000000
+      internalID: 7206852154587063357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_19
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 79
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f3a102646058d50800000000000000
+      internalID: 6738799315685883703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_20
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 79
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0287685a09173a5a0800000000000000
+      internalID: -6511235770181322720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEATH - 002_21
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 79
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a15a8b41e7ed72d0800000000000000
+      internalID: -3279209998834839129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DEATH - 002_0: -900752714639582572
+      DEATH - 002_1: -8442023257918178459
+      DEATH - 002_10: -6018349287528381187
+      DEATH - 002_11: 3377980843464026876
+      DEATH - 002_12: -4276405613109176400
+      DEATH - 002_13: 724066992444130913
+      DEATH - 002_14: 3504546034368892681
+      DEATH - 002_15: -4503021208371110702
+      DEATH - 002_16: 215889535165904240
+      DEATH - 002_17: 3912853092916741376
+      DEATH - 002_18: 7206852154587063357
+      DEATH - 002_19: 6738799315685883703
+      DEATH - 002_2: -1846871069796664730
+      DEATH - 002_20: -6511235770181322720
+      DEATH - 002_21: -3279209998834839129
+      DEATH - 002_3: -2807470282813964320
+      DEATH - 002_4: -805282056389610019
+      DEATH - 002_5: -8802587063474364788
+      DEATH - 002_6: -3642689312545352294
+      DEATH - 002_7: -176186714108433988
+      DEATH - 002_8: 7062202698380499120
+      DEATH - 002_9: -5340825947255957289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
